@@ -1,2 +1,2 @@
-anime-manga-downloader
-======================
+Anime-Manga.cz Downloader (AMDownloader)
+========================================
